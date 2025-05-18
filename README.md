@@ -1,5 +1,5 @@
 ## Repository created for programming and development in the C++ language.
-![C++](https://img.shields.io/badge/C++-0073e6?style=for-the-badge&logo=c++&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C++&logoColor=25fafe)&nbsp;
 
 This repository is intended for studying C++, a high-performance language widely used for system programming, game development, and applications requiring real-time processing. C++ is known for its control over system resources and performance. The focus is on mastering C++ syntax, object-oriented programming, memory management, and performance optimization.
 
